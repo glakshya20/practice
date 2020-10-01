@@ -28,7 +28,8 @@ v[index] = '\0';  //null
 int i=m,j=n;
 
 
-//print output
+//print the result
+
 while(i>0 && j>0)
 {
 if(a[i-1]==b[j-1]){v[index-1]=a[i-1]; i--; j--; index--;}
