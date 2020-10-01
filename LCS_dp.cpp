@@ -1,5 +1,4 @@
 //LCS LARGEST COMMON SUBSEQUENCE
-//Dynamic Programiing
 
 #include<bits/stdc++.h>
 using namespace std;
